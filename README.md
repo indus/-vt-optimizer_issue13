@@ -1,3 +1,5 @@
+##Test 1
+
 `node ../index.js -m munich.mbtiles -s style_circle1.json -o munich_opt_style_circle1.mbtiles`
 ```
 Process results
@@ -8,6 +10,7 @@ Process results
 ```
 correct
 
+##Test 2
 `node ../index.js -m munich.mbtiles -s style_circle1.json -o munich_opt_style_circle1.mbtiles`
 
 ```
@@ -17,7 +20,7 @@ correct
 ```
 correct
 
-
+##Test 3
 `node ../index.js -m munich.mbtiles -s style.json -o munich_opt_style.mbtiles`
 
 ```
